@@ -5,6 +5,7 @@ namespace ConsoleGame
 {
     class AeroplaneChess
     {
+        #region 全局变量
         //地图信息数组
         public static int[] _map;
         
@@ -28,7 +29,8 @@ namespace ConsoleGame
         public static int winner = 0;
         //记录回合数
         public static int turnCounter = 0;
-
+        #endregion
+        
         #region 显示标题与游戏规则方法
         /// <summary>
         /// 生成标题信息
