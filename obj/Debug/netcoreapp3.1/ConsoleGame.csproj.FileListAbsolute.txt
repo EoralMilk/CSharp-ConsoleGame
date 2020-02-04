@@ -1,11 +1,11 @@
 E:\VScode_desk\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.exe
-E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.csprojAssemblyReference.cache
-E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfoInputs.cache
-E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfo.cs
-E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.dll
-E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.pdb
 E:\VScode_desk\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.deps.json
 E:\VScode_desk\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.runtimeconfig.json
 E:\VScode_desk\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.runtimeconfig.dev.json
 E:\VScode_desk\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.dll
 E:\VScode_desk\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.pdb
+E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.csprojAssemblyReference.cache
+E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfoInputs.cache
+E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfo.cs
+E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.dll
+E:\VScode_desk\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.pdb
