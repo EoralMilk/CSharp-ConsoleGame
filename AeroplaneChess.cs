@@ -535,7 +535,6 @@ namespace ConsoleGame
             System.Console.WriteLine("{0}胜利啦！", _playerName[winner-1]);
             System.Console.WriteLine("====游戏结束====");
             Console.ReadKey();
-            Main(args);
         }
     }
 }
