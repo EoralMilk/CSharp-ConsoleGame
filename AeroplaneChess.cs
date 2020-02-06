@@ -84,9 +84,9 @@ namespace ConsoleGame
             _map = new int[100];
             //SpeedUp
             int temp = 0;
-            for (int j = 0; j < 10; j++)
+            for (int j = 0; j < 20; j++)
             {
-                temp = rt.Next(j*10+1,j*10+10);
+                temp = rt.Next(j*5+1,j*5+5);
                 if(_map[temp] == 0)
                 {
                     _map[temp] = 1;
@@ -136,9 +136,9 @@ namespace ConsoleGame
                 }
             }
             //Draw
-            for (int j = 0; j < 5; j++)
+            for (int j = 0; j < 20; j++)
             {
-                temp = rt.Next(j*20+1,j*20+20);
+                temp = rt.Next(j*5+1,j*5+5);
                 if(_map[temp] == 0)
                 {
                     _map[temp] = 5;
@@ -432,11 +432,11 @@ namespace ConsoleGame
 
                             if(playerNum == 0)
                             {
-                                _playerState[1,2] = 1;
+                                _playerState[0,2] = 1;
                             }
                             else
                             {
-                                _playerState[0,2] = 1;
+                                _playerState[1,2] = 1;
                             }
                             break;
                         case 4: //调换位置！
