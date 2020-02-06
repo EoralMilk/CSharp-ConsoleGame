@@ -508,7 +508,6 @@ namespace ConsoleGame
         }
         #endregion
 
-
         /// <summary>
         /// 启动游戏
         /// </summary>
@@ -522,7 +521,8 @@ namespace ConsoleGame
             _playerName[0] =Console.ReadLine();
             System.Console.WriteLine("请输入玩家2的名字");
             _playerName[1] =Console.ReadLine();
-            System.Console.WriteLine("现在{0}和{1}将开始游戏！按任意键继续！",_playerName[0], _playerName[1]);
+            System.Console.WriteLine("\n现在{0}和{1}将开始游戏！按任意键继续！",_playerName[0], _playerName[1]);
+            Console.ReadKey();
             DrawMap();
             while(true)
             { 
